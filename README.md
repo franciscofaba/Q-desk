@@ -1,4 +1,3 @@
-
 # Configuración Rápida para Hyprland
 
 Este repositorio contiene los dotfiles y scripts necesarios para automatizar la instalación de un entorno de escritorio Hyprland minimalista y funcional. El script se encarga de instalar todos los paquetes y configurar los archivos necesarios.
