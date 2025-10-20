@@ -24,7 +24,7 @@ PAQUETES=(
 PAQUETES_AUR=(
     hyprpaper
     sublime-text-4
-    getnf
+    otf-font-awesome 
 )
 
 # --- INSTALACIÓN de PAQUETES ---
