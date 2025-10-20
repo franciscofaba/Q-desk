@@ -19,4 +19,5 @@ Este repositorio contiene los dotfiles y scripts necesarios para automatizar la 
 | `Super + J`           | Cambiar la dirección del *split* (vertical/horizontal). |
 | `Super + P`           | apagar el sistema                        |
 | `Super + R`           | reiniciar el sistema                        |
+
 -----
