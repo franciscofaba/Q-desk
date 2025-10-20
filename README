@@ -1,0 +1,22 @@
+
+# Configuración Rápida para Hyprland
+
+Este repositorio contiene los dotfiles y scripts necesarios para automatizar la instalación de un entorno de escritorio Hyprland minimalista y funcional. El script se encarga de instalar todos los paquetes y configurar los archivos necesarios.
+
+## Atajos de Teclado (Shortcuts)
+
+
+| Atajo                 | Acción                                              |
+| --------------------- | --------------------------------------------------- |
+| `Super + Enter`       | Abrir la terminal (`kitty`).                        |
+| `Super + Ctrl + Enter`| Abrir el lanzador de aplicaciones (`rofi`).         |
+| `Super + Q`           | Cerrar la ventana activa.                           |
+| `Super + M`           | Salir de la sesión de Hyprland (logout).            |
+| `Super + B`           | Abrir el navegador web (`firefox`).                 |
+| `Super + E`           | Abrir el gestor de archivos.                        |
+| `Super + F`           | Poner la ventana en pantalla completa.              |
+| `Super + T`           | Hacer que la ventana flote (o vuelva al modo *tiling*). |
+| `Super + J`           | Cambiar la dirección del *split* (vertical/horizontal). |
+| `Super + P`           | apagar el sistema                        |
+| `Super + R`           | reiniciar el sistema                        |
+-----
